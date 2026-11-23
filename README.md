@@ -1,6 +1,6 @@
 # Awesome-Cybersecurity-Penetration-Testing
 
-# Top Cybersecurity & Penetration Testing Ecosystem
+## Top Cybersecurity & Penetration Testing Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Adversary Emulation, Breach & Attack Simulation (BAS) & Self-Hosted Offensive Tooling*  
